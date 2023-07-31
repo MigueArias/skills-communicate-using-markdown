@@ -6,3 +6,5 @@
 ###### Header 6
 
 Help of Markdown header
+
+![Image of Constructocat2](https://octodex.github.com/images/constructocat2.jpg)
