@@ -17,3 +17,9 @@ Help of Markdown header
     return c
   }
 ```  
+The after code is :
+
+- [ ] 👍
+- [ ] 👎
+- [ ] 🥇
+- [ ] 💩
